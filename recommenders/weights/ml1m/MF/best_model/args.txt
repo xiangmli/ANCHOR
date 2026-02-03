@@ -1,0 +1,9 @@
+{
+  "modeltype": "PureMF",
+  "dataset": "ml1m",
+  "latent_dim_rec": 64,
+  "lr": 0.001,
+  "decay": 1e-05,
+  "batch_size": 2048,
+  "epochs": 100
+}

@@ -1,0 +1,12 @@
+{
+  "modeltype": "LightGCN",
+  "dataset": "ml1m",
+  "latent_dim_rec": 64,
+  "lightGCN_n_layers": 3,
+  "dropout": 0.1,
+  "keep_prob": 0.6,
+  "lr": 0.001,
+  "decay": 1e-05,
+  "batch_size": 2048,
+  "epochs": 100
+}
